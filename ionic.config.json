@@ -1,0 +1,8 @@
+{
+  "name": "mcontacttest",
+  "app_id": "71bc669a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
